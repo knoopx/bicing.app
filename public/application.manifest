@@ -1,0 +1,10 @@
+CACHE MANIFEST
+CACHE:
+/
+/images/icon.png
+/images/startup-phone.png
+/javascripts/application.js
+/javascripts/sencha-touch.js
+/stylesheets/sencha-touch.css
+NETWORK:
+/placemarks.json
